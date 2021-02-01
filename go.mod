@@ -1,4 +1,4 @@
-module github.com/jfeliu007/goplantuml/v2
+module github.com/hsleep/goplantuml/v2
 
 go 1.14
 
